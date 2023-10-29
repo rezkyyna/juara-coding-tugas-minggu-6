@@ -25,9 +25,9 @@ public class NomorDua {
                 System.out.print("_");
             }
         }
+        System.out.println("");
 
         //mencetak _5_ dan 5
-        System.out.println("");
         for (int j = 1; j <= 2; j++) {
             if (j == 1) {
                 System.out.print("_5_");
